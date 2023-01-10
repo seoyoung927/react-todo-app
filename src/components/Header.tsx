@@ -22,6 +22,7 @@ const HeaderWrapper = styled.ul`
     }
     a{
         text-decoration: none;
+        color: inherit;
         &:visited{
             color: inherit;
         }
